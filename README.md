@@ -6,3 +6,4 @@
 1. React
 2. React Router
 3. Responsive
+4. Firebase
